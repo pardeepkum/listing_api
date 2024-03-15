@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+simple create the project in file Getx statemangement
+1. shared prefes used locally data 
+2. path provider 
+3. api dio used for fetching the data pagination in list view data 
+4. static list data 
+5. data getting the by argument details of the list screen 
